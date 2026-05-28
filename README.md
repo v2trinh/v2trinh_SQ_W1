@@ -2,14 +2,14 @@
 
 ## Setup and Interaction Instructions
 
-N/A
+This sketch displays a static Jenga-inspired scene on a light cyan background. The scene includes a Jenga image along with a tower created using rectangles to resemble stacked Jenga blocks. There are no interactive features in this sketch.
 
 ## Assets
 
-| File                      | Source                          |
-| ------------------------- | ------------------------------- |
-| `assets/images/jenga.jpg` | Image by BobMcEvoy from Pixabay |
+| File                          | Source                                   |
+| ----------------------------- | ---------------------------------------- |
+| `assets/images/jenga.jpg` [1] | BobMcEvoy, Jenga Game Wood - pixabay.com |
 
 ## References
 
-N/A
+[1] BobMcEvoy. 2023. Jenga Game Wood - Free photo on Pixabay. Pixabay.com. Retrieved from https://pixabay.com/photos/jenga-game-wood-blocks-play-8296929/
